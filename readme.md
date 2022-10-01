@@ -1,4 +1,4 @@
-easyitemindex
+easyitemindex (currently w.i.p)
 
 easyitemindex is a free and open source cross-platform hardware-software solution meant for inventory management
 
