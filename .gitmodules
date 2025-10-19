@@ -1,0 +1,12 @@
+[submodule "httpd"]
+	path = httpd
+	url = https://github.com/apache/httpd.git
+[submodule "sqlite"]
+	path = sqlite
+	url = https://github.com/sqlite/sqlite.git
+[submodule "libcamera"]
+	path = libcamera
+	url = https://git.libcamera.org/libcamera/libcamera.git
+[submodule "libnfc"]
+	path = libnfc
+	url = https://github.com/nfc-tools/libnfc.git
